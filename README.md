@@ -58,3 +58,7 @@ Please ensure to include the API key in the headers for authentication when maki
 ## License
 
 This project is licensed under the MIT License.
+
+## Production URL 
+
+https://rest-api-assignment-five.vercel.app/apidocs/
